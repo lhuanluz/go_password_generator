@@ -65,5 +65,3 @@ bashCopy code
 `./password_generator -length=12 -numbers=true -symbols=true -uppercase=true -lowercase=true` 
 
 ----------
-
-Esse guia em Markdown descreve como compilar e usar o programa de geração de senhas. Você pode incluí-lo no `README.md` do seu repositório ou onde achar relevante.
